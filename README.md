@@ -4,7 +4,7 @@
 ## Olá, Eu sou o Henrique Onofrio 👋
 ##### ------------------------------------------------------------------------------------------------
 
-📚Analise de Desenvolvimento de Sistemas - Tecnologo (2/5).
+📚Ciencia da Computaçao - (1/8).
 
 🤖Apaixonado por ciência.
 
