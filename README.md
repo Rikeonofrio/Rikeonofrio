@@ -1,28 +1,34 @@
 
 
 ##### ------------------------------------------------------------------------------------------------
-## Olá, Eu sou o Henrique Onofrio 👋
+## Hello, I'm Henrique Onofrio 👋
 ##### ------------------------------------------------------------------------------------------------
 
-📚Ciencia da Computaçao - (1/8).
+📚Computer Science student - (2/8).
 
-🤖Apaixonado por ciência.
+🤖Science and technology lover.
 
-### Principal linguaguem:
+### Main technologies:
 ![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-#### Estudos em andamento
-
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+#### Basic in:
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Studies in progress:
+![Blockchain](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ##### ------------------------------------------------------------------------------------------------
 
 
-## redes sociais
+## social networks:
 
-[![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-onofrio/)[![Tw](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OnofrioHenrique)[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rikeonofrio/)
+[![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-onofrio/)
+[![Tw](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OnofrioHenrique)
 
 
 
