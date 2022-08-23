@@ -4,7 +4,7 @@
 ## Hello, I'm Henrique Onofrio 👋
 ##### ------------------------------------------------------------------------------------------------
 
-📚Computer Science student - (2/8).
+📚Computer Science student - (3/8).
 
 🤖Science and technology lover.
 
