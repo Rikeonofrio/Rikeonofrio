@@ -1,5 +1,6 @@
 #  Henrique Onofrio
-**Engenheiro de Soluções | Desenvolvedor Backend & Integrador SaaS**
+
+Desenvolvedor 
 
 Atuo como prestador de serviços tecnológicos, desenhando arquiteturas backend escaláveis, pipelines de dados e integrações robustas entre sistemas corporativos. Desenvolvo soluções sob medida para otimização operacional, eliminação de processos manuais e sincronização de dados de alta volumetria.
 
